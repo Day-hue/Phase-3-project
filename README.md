@@ -1,4 +1,6 @@
-H1N1 Vaccination Prediction
+#Behind the Jab: Predicting H1N1 Vaccination Behavior
+
+
 Overview
 This project aims to predict whether individuals will receive the H1N1 flu vaccine based on demographic, behavioral, and health-related factors. The goal is to build a machine learning model that can accurately classify individuals as likely or unlikely to get vaccinated. This can help public health organizations target vaccination campaigns more effectively.
 
